@@ -5,7 +5,7 @@ Mobile and Web development, especially Node, with React, Vue, Angular, Svelte, R
 
 - 🌱 I’m currently learning ...
 
-Plugin development for CapacitorJS, native code development for Android and iOS, and the internals of JavaScript frameworks.
+Plugin development for CapacitorJS. Learning more about Go, which I really like. A little Rust.
 
 - 💞️ I’m looking to collaborate on ...
 
